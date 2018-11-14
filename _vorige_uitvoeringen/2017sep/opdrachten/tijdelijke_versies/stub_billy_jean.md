@@ -1,1 +1,0 @@
-Billy Jean, meerdere toepassingen gebaseerd op het neerleggen van tegels met informatie via gps, contact via Arjan Hoogerwaard - de toepassingsgebieden met concrete opdrachtgevers zijn Pretpark, VVV kantoor, Evenementen/Festivals, Vacatures (Gemeenten en UWV)

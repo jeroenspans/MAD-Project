@@ -25,8 +25,8 @@ Eventueel informatieve algemene opmerkingen over deze dag.
 
 | Uren | Taak | Met Wie | Resultaat | Link |
 |------|------|---------|-----------|------|
-|  |  |  |  |  |
-|  |  |  |  |  |
+| 1 | Nieuwe technieken hoofdstuk gemaakt | Alleen | beide onderdelen af |  |
+| 3 | PVA met de groepdoorlopen op spelling | Gezamenlijk | Spellingsfouten eruit gehaald en ontbrekende onderdelen aangevuld |  |
 
 ## Donderdag
 Eventueel informatieve algemene opmerkingen over deze dag.
