@@ -1,1 +1,2 @@
-# MAD-Project
+# Multidisciplinaire Minor Project, I-discipline
+
